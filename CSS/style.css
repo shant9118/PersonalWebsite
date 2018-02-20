@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    background-color:4F5565;
+    background-image:url(../img/Synapses-shutter.jpg);
+    opacity:.90;
+    background-attachment: fixed;
+    background-size:cover;
+    margin:0px;
+    
+}
+header h1{
+    color:white;
+    margin: 0px ;
+    padding:0px;
+}
+header p{
+    color:white;
+}
+
+header{
+    background-color:black;
+    opacity:.6;
+    padding:10px;
+    position:relative;
+    margin:0px;
+}
+header:hover{
+    opacity:.80;
+}
+nav {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0px;
+    margin:0px;
+}
+
+nav>ul>li {
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    
+    
+}
+
+nav li:hover a,
+nav ul li ul li:hover a {
+	background: black;
+	border-color: white;
+    color:white;
+    text-transform:inherit;
+    text-align: center;
+}
+nav a {
+    padding: 5px 20px;
+    text-decoration: none;
+    background:white;
+    border: 2px solid white;
+    display: block;
+    border-radius: 20px;
+    text-align: center;
+    color:black;
+}
+
+.container{
+    background-color: black;
+    opacity:.90;
+    color:white;
+   /* margin:0px 150px 150px 150px;*/
+    padding:20px;
+    display:flex;
+    justify-content: flex-start;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+
+
+#about li{
+    list-style: none;
+    margin: 0px 0px 0px 80px;
+    }
+#about h1{
+    margin: 25px 0px 0px 125px;
+    font-size: 40px;
+}
+#about{
+    text-align: left;
+    margin:0px 0px 0px 20px;
+}
+#about p{
+    font-size:15px;
+    margin:0px 0px 0px 40px;
+    padding:2px;
+    
+    
+}
+
+
+#skill li{
+    list-style: none;
+    text-align:right;
+    margin: 0px 50px 0px 0px;
+    padding:5px;
+}
+#imag {
+    margin: 8px 0px 0px 500px;
+}
+
+
+
+
+
+
+
+
+
