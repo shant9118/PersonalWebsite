@@ -10,7 +10,6 @@ body {
     background-attachment: fixed;
     background-size: cover;
     margin: 0px auto;
-
 }
 
 header h1 {
@@ -29,7 +28,6 @@ nav {
     position: absolute;
     right: 50px;
     bottom: 5px;
-
 }
 
 nav ul {
@@ -42,8 +40,6 @@ nav > ul > li {
     display: inline-block;
     width: 100px;
     vertical-align: top;
-
-
 }
 
 nav li:hover a,
@@ -74,7 +70,6 @@ nav a {
     display: flex;
     justify-content: flex-start;
     border-bottom: 2px solid white;
-
 }
 
 #about img {
@@ -168,8 +163,6 @@ nav a {
     padding-bottom: 20px;
 }
 
-
-
 h2 {
     margin: 25px 0px 0px 550px;
     font-size: 40px;
@@ -179,18 +172,15 @@ h2 {
 .load {
     display: inline-block;
     margin: 60px 0px 0px 10px;
-
 }
 
 .load2 {
     display: inline-block;
     margin: 60px 0px 0px 475px;
-
 }
 
 #loading {
     -webkit-animation: rotation 2s infinite linear;
-
 }
 
 @-webkit-keyframes rotation {
@@ -202,16 +192,10 @@ h2 {
     }
 }
 
-
-
-
 .column {
-    /* float: left;
-    /*width: 33.33%;*/
     padding: 10px;
     height: 300px;
     width: 300px;
-
 }
 
 .column h2 {
@@ -225,14 +209,13 @@ h2 {
 
 #columnlink:hover {
     color: #1570A5;
-
 }
 
 .row {
     display: table-row;
     width: 100%;
     height: auto;
-    r width: 500px;
+    width: 500px;
     padding: 10px;
     position: relative;
     text-align: center;
@@ -243,8 +226,6 @@ h2 {
     display: table-cell;
     float: none;
     vertical-align: top;
-
-
 }
 
 .row:after {
@@ -264,7 +245,6 @@ h2 {
     margin: auto;
     text-align: center;
     width: 50px;
-
 }
 
 .columnimg {
@@ -281,6 +261,7 @@ h2 {
     justify-content: flex-start;
     padding: .08%;
 }
+
 .container34 {
     background-image: linear-gradient(#126396, #416170);
     opacity: .99;
@@ -290,6 +271,7 @@ h2 {
     justify-content: flex-start;
     padding: .08%;
 }
+
 .container35 {
     background-image: linear-gradient(#126396, #416170);
     opacity: .99;
@@ -310,8 +292,6 @@ h2 {
     position: relative;
     float: left;
     margin-left: 1275px;
-
-
 }
 
 .container33 {
@@ -325,16 +305,13 @@ h2 {
     justify-content: flex-start;
     border-top: 5px solid white;
     border-bottom: 3px solid white;
-    float:left;
-     
-
+    float: left;
 }
 
 .container33 form {
     position: relative;
     padding: 10px;
     margin:
-
 }
 
 .container33 h1 {
@@ -344,15 +321,15 @@ h2 {
 
 }
 
-
 .columncontainer {
     padding: 1000px;
 
 }
+
 input {
     width: 250px;
 }
+
 .for {
     margin-top: 67px;
 }
-
